@@ -1,0 +1,32 @@
+[tools]
+aspire = "latest"
+bun = "latest"
+deno = "latest"
+dotnet = "latest"
+go = "latest"
+node = "lts"
+python = "latest"
+ruby = "latest"
+rust = "latest"
+uv = "latest"
+zig = "latest"
+neovim = "latest"
+fastfetch = "latest"
+github-cli = "latest"
+azd = "latest"
+azure = "latest"
+fd = "latest"
+ffmpeg = "latest"
+imagemagick = "latest"
+lazygit = "latest"
+lua = "latest"
+ripgrep = "latest"
+starship = "latest"
+tmux = "latest"
+tree-sitter = "latest"
+copilot = "latest"
+antigravity-cli = "latest"
+
+[settings]
+python = { uv_venv_auto = true }
+ruby = { compile = false }
