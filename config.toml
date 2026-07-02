@@ -30,3 +30,4 @@ antigravity-cli = "latest"
 [settings]
 python = { uv_venv_auto = true }
 ruby = { compile = false }
+minimum_release_age = "1h"
