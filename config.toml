@@ -26,6 +26,8 @@ tmux = "latest"
 tree-sitter = "latest"
 copilot = "latest"
 antigravity-cli = "latest"
+1password = "latest"
+"npm:lighthouse" = "latest"
 
 [settings]
 python = { uv_venv_auto = true }
