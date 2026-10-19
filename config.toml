@@ -27,7 +27,6 @@ tree-sitter = "latest"
 copilot = "latest"
 antigravity-cli = "latest"
 1password = "latest"
-"npm:lighthouse" = "latest"
 "npm:@shopify/cli" = "latest"
 powershell = "latest"
 [settings]
