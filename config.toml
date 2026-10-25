@@ -13,7 +13,7 @@ neovim = "latest"
 fastfetch = "latest"
 github-cli = "latest"
 azd = "latest"
-azure = "latest"
+azure = { version = "latest", dependency_prereleases = "allow", with = ["pip"], python = "3.14" }
 fd = "latest"
 ffmpeg = "latest"
 imagemagick = "latest"
